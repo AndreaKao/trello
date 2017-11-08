@@ -1,0 +1,48 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+*:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* Sección Header */
+.headboard {
+	height: 75px;
+	width: 100%;
+	background: #00a5ff;
+	position: relative;
+}
+
+.logo img {
+	height: 40px;
+	margin-top: 15px;
+	margin-left: 17px;
+}
+
+/* Sección cabezera */
+.fondo {
+	height: 560px;
+	width: 100%;
+	background: #0085D3;
+}
+
+/*Sección lista */
+.reto {
+	height: 45px;
+	width: 100%;
+	font-size: 13px;
+	line-height: 20px;
+	color: #fff;
+	margin-top: -540px;
+	margin-left: 40px;
+}
+
+/* Sección */
